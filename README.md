@@ -6,7 +6,7 @@ I'm a Full Stack Developer mostly working with Front-End and IT professional wit
 ---
 
 ### 🖥️ See My Projects  
-Coming soon: **[ramadanrexhepi.dev](https://ramadanredzepovski.netlify.app/)**
+@: **[ramadanrexhepi.dev](https://ramadanredzepovski.netlify.app/)**
 
 ### ✉️ Contact Me  
 **Email:** [hi@ramadanrexhepi.dev](rexhepir301@gmail.com)
